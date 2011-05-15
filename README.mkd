@@ -1,0 +1,13 @@
+"Maoist Economics and the Revolutionary Road to Communism" is a marvelous socialist textbook on Political Economy. Based on China's revolutionary history from 1949 to 1976, it stands out as one of the top works that combine theory and practise in the field.
+
+[A scanned pdf of its English version](###) is what we start with. We need to type it into markdown-formatted plain text which could easily be turned into html/chm/pdf/epub, and translate it into other languages such as Chinese, the original language it was written in, which version is now missing.
+
+Versions of differenet languages are located in seperate folders named after their code. *e.g.* "en" for English and "zh-cn" for Chinese. There are also some common resource folders:
+1. "image" for all the images
+
+Typing specification
+-----
+Each chapter is in a single .mkd file.
+Use one line of 5 *"="* to seperate a chapter's title from its content.
+Use one line of 5 *"-"* to mark titles within a chapter.
+Use *TAB* to replace spaces at the beginning of a paragraph.
