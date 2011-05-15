@@ -7,7 +7,7 @@ Versions of differenet languages are located in seperate folders named after the
 
 Typing specification
 -----
-Each chapter is in a single .mkd file.
-Use one line of 5 *"="* to seperate a chapter's title from its content.
-Use one line of 5 *"-"* to mark titles within a chapter.
-Use *TAB* to replace spaces at the beginning of a paragraph.
+1. Each chapter is in a single .mkd file.
+- Use one line of 5 *"="* to seperate a chapter's title from its content.
+- Use one line of 5 *"-"* to mark titles within a chapter.
+- Use 4 spaces at the beginning of a paragraph if needed.
