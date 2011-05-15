@@ -10,4 +10,4 @@ Typing specification
 1. Each chapter is in a single .mkd file.
 - Use one line of 5 *"="* to seperate a chapter's title from its content.
 - Use one line of 5 *"-"* to mark titles within a chapter.
-- Use 4 spaces at the beginning of a paragraph if needed.
+- Ignore spaces at the beginning of each paragraph. (Otherwise would be recognized as code section and I don't know how to reserve the spaces and avoid this problem at the same time.)
